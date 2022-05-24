@@ -12,6 +12,10 @@
 各种部件状态控制（如果不想要横切面，可以删除）
 ![image](https://user-images.githubusercontent.com/53106802/170026426-b878e168-b0c3-48f3-8163-e028bb06f72f.png)
 
+效果如下
+![image](https://user-images.githubusercontent.com/53106802/170026998-8b38d564-aba5-418f-82ab-3399c45d086a.png)
+![image](https://user-images.githubusercontent.com/53106802/170027014-47dc08e6-f367-488a-b05b-a898a061ff98.png)
+
 
 一切代码全部写在application.ts中
 ====
