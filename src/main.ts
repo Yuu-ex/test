@@ -2,8 +2,8 @@ import './style.scss';
 import { Application } from './app/application';
 
 function main() {
-  const app = new Application(document.body)
-  app.hello();
+  const app = new Application();
+
 }
 
 main();

@@ -1,14 +1,13 @@
-
 html {
-  height: 100vh;
+    height: 100vh;
 }
 
 body {
-  margin: 0px;
-  min-height: 100%;
-  > main {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
+    margin: 0px;
+    min-height: 100%;
+    >main {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
 }
